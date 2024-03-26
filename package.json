@@ -1,7 +1,6 @@
 {
   "name": "benr2423wahyu",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,6 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
-  }
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  },
+  "description": ""
 }
